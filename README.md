@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Starter: Minimal Blog
+  Hong Minji
 </h1>
 
 <p align="center">
@@ -22,7 +22,7 @@
 </a>
 </p>
 
-**Looking for an Astro alternative?** Check out [Astro Theme Minimal Blog](https://github.com/LekoArts/astro-theme-minimal-blog)!
+**Looking for an Astro alternative?** Check out [Astro Theme ](https://github.com/LekoArts/astro-theme-minimal-blog)!
 
 Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting. Using the Gatsby Theme [`@lekoarts/gatsby-theme-minimal-blog`](https://github.com/LekoArts/gatsby-themes/tree/main/themes/gatsby-theme-minimal-blog).
 
@@ -226,6 +226,6 @@ To learn more about Gatsby themes specifically, I recommend checking out the [th
 
 ## 🌟 Supporting me
 
-Thanks for using this project! I'm always interested in seeing what people do with my projects, so don't hesitate to tag me on [Bluesky](https://bsky.app/profile/lekoarts.de) and share the project with me.
+Thanks for using this project! I'm always interested in seeing what people do with my projects, so don't hesitate to tag me on [Instagram](www.instagram.com/hong.min.ji ) and share the project with me.
 
-Please star this project, share it on Social Media or consider supporting me on [GitHub Sponsors](https://github.com/sponsors/LekoArts)!
+Please star this project, share it on Social Media or consider supporting me on [linkedin](https://www.linkedin.com/in/hongminji/)!
